@@ -11,7 +11,7 @@ module.exports.run = async (client, message, args) => {
 
 module.exports.config = {
   name: "teyitbilgi",
-  description: "Belirtilen üyenin teyit bilgisi.",
+  description: "Belirtilen yetkilinin teyit bilgisi.",
   usage: "teyitbilgi <@üye>",
   aliases: ["teyit-bilgi"],
 };

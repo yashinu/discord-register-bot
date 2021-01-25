@@ -21,7 +21,7 @@ module.exports.run = async (client, message, args) => {
 
 module.exports.config = {
   name: "isim",
-  description: "Belirtilen üyeyi erkek olarak kaydeder.",
+  description: "Belirtilen üyenin ismini düzenler.",
   usage: "isim <@üye> <isim> [yaş]",
   aliases: ["nick", "name", "İ"],
 };

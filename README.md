@@ -4,10 +4,10 @@
  
  - [Discord Register Bot](#discord-register-bot)
     - [İçerikler](#içerikler)
-    - [Kurulum & Kullanım](#kurulum), [Anlatım Videosu](https://youtu.be/xau_vBwhqAI)
+    - [Kurulum & Kullanım](#kurulum), [Anlatım Videosu](x)
     - [Serendia Squad](https://discord.gg/ZBmhQ2T)
  
- [![Bot Tanıtım & Kurulum Videosu](x)](x)
+ [![Bot Kurulum Anlatım Videosu](https://yashinu.is-inside.me/1FZEqjHx.png)](x)
     
     
 # Neden Yayınlandı?

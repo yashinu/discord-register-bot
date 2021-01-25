@@ -4,10 +4,10 @@
  
  - [Discord Register Bot](#discord-register-bot)
     - [İçerikler](#içerikler)
-    - [Kurulum & Kullanım](#kurulum), [Anlatım Videosu](x)
+    - [Kurulum & Kullanım](#kurulum), [Anlatım Videosu](https://youtu.be/iC4plq2h5pI)
     - [Serendia Squad](https://discord.gg/ZBmhQ2T)
  
- [![Bot Kurulum Anlatım Videosu](https://yashinu.is-inside.me/1FZEqjHx.png)](x)
+ [![Bot Kurulum Anlatım Videosu](https://yashinu.is-inside.me/1FZEqjHx.png)](https://youtu.be/iC4plq2h5pI)
     
     
 # Neden Yayınlandı?
@@ -16,6 +16,9 @@
 # Bilgilendirme
 * Projeyi [Serendia Squad](https://discord.gg/ZBmhQ2T) sunucusu için hazırladım, izinsiz paylaşılması/videosunun çekilmesi yasaktır.
 * Projeyle ilgili sorunlarınız için sunucuya gelerek bana ulaşabilirsiniz. [(Yashinu#0001)](https://discord.com/users/367679437816463360)
+
+# Komutlar
+* ![Komutlar](https://yashinu.is-inside.me/427gAgdy.png)
 
 # Kurulum
 * [Node.JS](https://nodejs.org/en/) kurduğunuzdan emin olmalısınız.

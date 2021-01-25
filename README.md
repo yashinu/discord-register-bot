@@ -23,7 +23,7 @@
 
 # Kurulum
 * [Node.JS](https://nodejs.org/en/) kurduğunuzdan emin olmalısınız.
-* MongoDB hesabınızın olması gerekiyor. (Nasıl kuracağınızı ve URL alacağınızı bilmiyorsanız; [kurulum](https://youtu.be/yG6105VL8H4)
+* MongoDB hesabınızın olması gerekiyor. (Nasıl kuracağınızı ve URL alacağınızı bilmiyorsanız; [anlatım](https://youtu.be/yG6105VL8H4)
 * Projeyi zip halinde indirin ve bir klasöre çıkarın.
 * Çıkardığınız klasördeki `config.json` adlı dosyayı açın ve içindekileri doğru bir biçimde doldurun.
   * `prefixes` botunuzun komutlarının çalışmasını sağlayan ön-eklerdir. (Artırabilir/Azaltabilirsiniz)

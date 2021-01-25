@@ -3,8 +3,8 @@
  Discord Register (Teyit) Botu
  
  - [Discord Register Bot](#discord-register-bot)
-    - [İçerikler](#içerikler)
     - [Kurulum & Kullanım](#kurulum), [Anlatım Videosu](https://youtu.be/iC4plq2h5pI)
+    - [Komutlar](#komutlar)
     - [Serendia Squad](https://discord.gg/ZBmhQ2T)
  
  [![Bot Kurulum Anlatım Videosu](https://yashinu.is-inside.me/1FZEqjHx.png)](https://youtu.be/iC4plq2h5pI)

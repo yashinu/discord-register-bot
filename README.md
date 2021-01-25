@@ -7,7 +7,7 @@
     - [Komutlar](#komutlar)
     - [Serendia Squad](https://discord.gg/ZBmhQ2T)
  
- [![Bot Kurulum Anlatım Videosu](https://yashinu.is-inside.me/1FZEqjHx.png)](https://youtu.be/iC4plq2h5pI)
+ [![Bot Kurulum Anlatım Videosu](https://yashinu.is-inside.me/Hnda0el9.png)](https://youtu.be/iC4plq2h5pI)
     
     
 # Neden Yayınlandı?
@@ -19,7 +19,7 @@
 * Projeyi Glitchte kullanmak isteyen arkadaşlar, yeni bir Glitch projesi açarak oradaki package.json dosyasını bu projedeki package.json ile değişmelidirler.
 
 # Komutlar
-* ![Komutlar](https://yashinu.is-inside.me/4pJNdzkl.png)
+* ![Komutlar](https://yashinu.is-inside.me/3CjBhRNr.png)
 
 # Kurulum
 * [Node.JS](https://nodejs.org/en/) kurduğunuzdan emin olmalısınız.

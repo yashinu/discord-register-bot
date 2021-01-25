@@ -18,7 +18,7 @@
 * Projeyle ilgili sorunlarınız için sunucuya gelerek bana ulaşabilirsiniz. [(Yashinu#0001)](https://discord.com/users/367679437816463360)
 
 # Komutlar
-* ![Komutlar](https://yashinu.is-inside.me/427gAgdy.png)
+* ![Komutlar](https://yashinu.is-inside.me/4pJNdzkl.png)
 
 # Kurulum
 * [Node.JS](https://nodejs.org/en/) kurduğunuzdan emin olmalısınız.

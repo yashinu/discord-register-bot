@@ -16,6 +16,7 @@
 # Bilgilendirme
 * Projeyi [Serendia Squad](https://discord.gg/ZBmhQ2T) sunucusu için hazırladım, izinsiz paylaşılması/videosunun çekilmesi yasaktır.
 * Projeyle ilgili sorunlarınız için sunucuya gelerek bana ulaşabilirsiniz. [(Yashinu#0001)](https://discord.com/users/367679437816463360)
+* Projeyi Glitchte kullanmak isteyen arkadaşlar, yeni bir Glitch projesi açarak oradaki package.json dosyasını bu projedeki package.json ile değişmelidirler.
 
 # Komutlar
 * ![Komutlar](https://yashinu.is-inside.me/4pJNdzkl.png)

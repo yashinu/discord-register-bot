@@ -1,0 +1,17 @@
+{
+  "prefixes": ["!","."],
+  "botToken": "",
+  "developers": ["", "367679437816463360"],
+  "mongooseConnectURL": "",
+  "botStatus": "Yashinu ❤️ Serendia",
+  "name_age": true,
+  "embedColor": "RANDOM",
+  "defaultTag": "",
+  "tag": "",
+  "staffRoles": [],
+  "invalids": [],
+  "unregisterRoles": [],
+  "boyRoles": [],
+  "girlRoles": [],
+  "tagRoles": []
+}

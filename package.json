@@ -1,0 +1,29 @@
+{
+  "name": "yashinu-register-bot",
+  "version": "1.0.0",
+  "description": "Yashinu Discord Register Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Yashinu",
+  "license": "ISC",
+  "homepage": "https://github.com/yashinu/discord-register-bot#readme",
+  "keywords": [
+    "register",
+    "bot",
+    "discordbot",
+    "discord",
+    "yashinu",
+    "teyit",
+    "teyitbotu"
+  ],
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.32",
+    "mongoose": "^5.11.13"
+  },
+  "devDependencies": {}
+}
